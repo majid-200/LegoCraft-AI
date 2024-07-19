@@ -1,6 +1,6 @@
 # LegoCraftAI: Lego Detection and Shape Advisor
 
-!LegoCraftAI Logo
+![untitled8-removebg](https://github.com/user-attachments/assets/e1f26f91-0637-445d-8624-a73a293c6054)
 
 ## Overview
 
